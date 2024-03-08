@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-After nearly 10 years at [Yele Consulting](https://www.yele.fr/), a consulting firm specializing in supporting the environmental and digital transformation of energy sector, I left my position as Senior Manager and Director of Information Systems. I joined [42 School](https://42.fr/en/homepage/) to enhance my skills in software development. I was among the fastest in my cohort to complete the core curriculum at 42, which allowed me time to develop my skills in AI and machine learning.
+After nearly 10 years at [Yele Consulting](https://www.yele.fr/), a consulting firm specializing in supporting the environmental and digital transformation of energy sector, I left my position as Senior Manager and Director of Information Systems.
+
+I joined [42 School](https://42.fr/en/homepage/) to enhance my skills in software development. I was among the fastest in my cohort to complete the core curriculum at 42, which allowed me time to develop my skills in AI and machine learning.
+
 Today, I am seeking to consolidate my new technical skills and explore how emerging technologies such as AI can transform various industrial sectors.
 
 ## 💻 Tech Stack:
