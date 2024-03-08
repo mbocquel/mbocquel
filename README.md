@@ -7,7 +7,7 @@ Today, I am seeking to consolidate my new technical skills and explore how emerg
 
 <p align="center">
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,tensorflow,pytorch,sklearn,r,postgres,nodejs,docker,linux,bash,git,&perline=50" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,tensorflow,pytorch,sklearn,r,postgres,nodejs,nestjs,docker,git,&perline=50" />
     </a>
 </p>
 
