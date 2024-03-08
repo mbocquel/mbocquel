@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+After nearly 10 years at [Yele Consulting](https://www.yele.fr/), a consulting firm specializing in supporting the transformation of energy network managers, I left my position as Senior Manager and Director of Information Systems. I joined [42 School](https://42.fr/en/homepage/) to enhance my skills in software development. I was among the fastest in my cohort to complete the core curriculum at 42, which allowed me time to develop my skills in AI and machine learning.
+Today, I am seeking to consolidate my new technical skills and explore how emerging technologies such as AI can transform various industrial sectors.
+
+## 💻 Tech Stack:
+
+<p align="center">
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,tensorflow,pytorch,sklearn,r,postgres,nodejs,docker,linux,bash,git,&perline=50" />
+    </a>
+</p>
+
 <!--
 **mbocquel/mbocquel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
