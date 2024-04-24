@@ -6,7 +6,7 @@ I joined [42 School](https://42.fr/en/homepage/) to enhance my skills in softwar
 
 Today, I am seeking to consolidate my new technical skills and explore how emerging technologies such as AI can transform various industrial sectors.
 
-## 💻 Artificial Intelligence MOOC completed:
+## 🤖 Artificial Intelligence MOOC completed:
  - **Machine Learning Specialization**
      - [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/account/accomplishments/verify/TAV6JRSK3FRZ)
      - [Advanced Learning Algorithms](https://www.coursera.org/account/accomplishments/verify/GS3K9PYHPJFQ)
