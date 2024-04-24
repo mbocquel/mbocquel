@@ -8,7 +8,7 @@ Today, I am seeking to consolidate my new technical skills and explore how emerg
 
 ## 💻 Artificial Intelligence MOOC completed:
  - **Machine Learning Specialization**
-     - [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/account/accomplishments/verify/TAV6JRSK3FRZ){:target="_blank"}
+     - <a href="https://www.coursera.org/account/accomplishments/verify/TAV6JRSK3FRZ" target="_blank">Supervised Machine Learning: Regression and Classification</a>
      - [Advanced Learning Algorithms](https://www.coursera.org/account/accomplishments/verify/GS3K9PYHPJFQ){:target="_blank"}
      - [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction){:target="_blank"} (Ongoing)
  - **Natural Language Processing Specialization**
