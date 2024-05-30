@@ -20,12 +20,12 @@ Today, I am seeking to consolidate my new technical skills and explore how emerg
      - [Python Essentials for MLOps](https://www.coursera.org/learn/python-mlops-duke?specialization=mlops-machine-learning-duke)
      - [DevOps, DataOps, MLOps](https://www.coursera.org/learn/devops-dataops-mlops-duke?specialization=mlops-machine-learning-duke) (Ongoing)
 
-## DeepLearning.AI Short Courses**
-     - [Getting Started with Mistral](https://learn.deeplearning.ai/accomplishments/46d58589-d6df-4b9c-a26b-cb37c4c6b874?usp=sharing)
-     - [ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/courses/chatgpt-prompt-eng/)
-     - [LangChain for LLM Application Development!](https://learn.deeplearning.ai/accomplishments/da4525ca-3889-4171-90c6-bb83aea5e9a9?usp=sharing)
-     - [How Diffusion Models Work!](https://learn.deeplearning.ai/accomplishments/63d2233b-8ae3-4fcc-8a6c-19ab63d4db5c?usp=sharing)
-   
+### DeepLearning.AI Short Courses
+- [Getting Started with Mistral](https://learn.deeplearning.ai/accomplishments/46d58589-d6df-4b9c-a26b-cb37c4c6b874?usp=sharing)
+- [ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/courses/chatgpt-prompt-eng/)
+- [LangChain for LLM Application Development!](https://learn.deeplearning.ai/accomplishments/da4525ca-3889-4171-90c6-bb83aea5e9a9?usp=sharing)
+- [How Diffusion Models Work!](https://learn.deeplearning.ai/accomplishments/63d2233b-8ae3-4fcc-8a6c-19ab63d4db5c?usp=sharing)
+  
 ## 💻 Tech Stack:
 
 <p align="center">
