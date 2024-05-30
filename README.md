@@ -11,7 +11,7 @@ Today, I am seeking to consolidate my new technical skills and explore how emerg
      - [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/account/accomplishments/verify/TAV6JRSK3FRZ)
      - [Advanced Learning Algorithms](https://www.coursera.org/account/accomplishments/verify/GS3K9PYHPJFQ)
      - [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction) (Ongoing)
- - **Natural Language Processing Specialization - [Certification](https://www.coursera.org/account/accomplishments/specialization/XWB3JMBKXZ2Q)**
+ - **Natural Language Processing Specialization** - [Certification](https://www.coursera.org/account/accomplishments/specialization/XWB3JMBKXZ2Q)
      - [Natural Language Processing with Classification and Vector Spaces](https://www.coursera.org/account/accomplishments/verify/UF3V3SHSYGWC)
      - [Natural Language Processing with Probabilistic Models](https://www.coursera.org/account/accomplishments/verify/N3HCUCR673TG)
      - [Natural Language Processing with Sequence Models](https://www.coursera.org/account/accomplishments/verify/P2738AC6LFR3)
