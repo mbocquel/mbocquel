@@ -16,6 +16,9 @@ Today, I am seeking to consolidate my new technical skills and explore how emerg
      - [Natural Language Processing with Probabilistic Models](https://www.coursera.org/account/accomplishments/verify/N3HCUCR673TG)
      - [Natural Language Processing with Sequence Models](https://www.coursera.org/account/accomplishments/verify/P2738AC6LFR3)
      - [Natural Language Processing with Attention Models](https://www.coursera.org/account/accomplishments/verify/LM2NMHDHHGWF)
+ - **MLOps | Machine Learning Operations Specialization**
+     - [Python Essentials for MLOps](https://www.coursera.org/learn/python-mlops-duke?specialization=mlops-machine-learning-duke)
+     - [DevOps, DataOps, MLOps](https://www.coursera.org/learn/devops-dataops-mlops-duke?specialization=mlops-machine-learning-duke) (Ongoing)
  - **DeepLearning.AI Short Courses**
      - [Getting Started with Mistral](https://learn.deeplearning.ai/accomplishments/46d58589-d6df-4b9c-a26b-cb37c4c6b874?usp=sharing)
      - [ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/courses/chatgpt-prompt-eng/)
