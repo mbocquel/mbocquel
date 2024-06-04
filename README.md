@@ -17,7 +17,7 @@ Today, I am seeking to consolidate my new technical skills and explore how emerg
      - [Natural Language Processing with Sequence Models](https://www.coursera.org/account/accomplishments/verify/P2738AC6LFR3)
      - [Natural Language Processing with Attention Models](https://www.coursera.org/account/accomplishments/verify/LM2NMHDHHGWF)
  - **MLOps | Machine Learning Operations Specialization**
-     - [Python Essentials for MLOps](https://www.coursera.org/learn/python-mlops-duke?specialization=mlops-machine-learning-duke)
+     - [Python Essentials for MLOps](https://coursera.org/share/0b1fbffc3d7211a391f21a0a4ef9fffe)
      - [DevOps, DataOps, MLOps](https://www.coursera.org/learn/devops-dataops-mlops-duke?specialization=mlops-machine-learning-duke) (Ongoing)
 
 ### DeepLearning.AI Short Courses
