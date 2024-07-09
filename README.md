@@ -7,18 +7,20 @@ I joined [42 School](https://42.fr/en/homepage/) to enhance my skills in softwar
 Today, I am seeking to consolidate my new technical skills and explore how emerging technologies such as AI can transform various industrial sectors.
 
 ## 🤖 Artificial Intelligence MOOC completed:
- - **Machine Learning Specialization**
+ - **Standford - Machine Learning Specialization**
      - [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/account/accomplishments/verify/TAV6JRSK3FRZ)
      - [Advanced Learning Algorithms](https://www.coursera.org/account/accomplishments/verify/GS3K9PYHPJFQ)
      - [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction) (Ongoing)
- - **Natural Language Processing Specialization** - *[Certification](https://www.coursera.org/account/accomplishments/specialization/XWB3JMBKXZ2Q)*
+ - **Standford - Natural Language Processing Specialization** - *[Certification](https://www.coursera.org/account/accomplishments/specialization/XWB3JMBKXZ2Q)*
      - [Natural Language Processing with Classification and Vector Spaces](https://www.coursera.org/account/accomplishments/verify/UF3V3SHSYGWC)
      - [Natural Language Processing with Probabilistic Models](https://www.coursera.org/account/accomplishments/verify/N3HCUCR673TG)
      - [Natural Language Processing with Sequence Models](https://www.coursera.org/account/accomplishments/verify/P2738AC6LFR3)
      - [Natural Language Processing with Attention Models](https://www.coursera.org/account/accomplishments/verify/LM2NMHDHHGWF)
- - **MLOps | Machine Learning Operations Specialization**
+ - **Duke - MLOps | Machine Learning Operations Specialization**
      - [Python Essentials for MLOps](https://coursera.org/share/0b1fbffc3d7211a391f21a0a4ef9fffe)
      - [DevOps, DataOps, MLOps](https://www.coursera.org/learn/devops-dataops-mlops-duke?specialization=mlops-machine-learning-duke) (Ongoing)
+ - **Duke - Building Cloud Computing Solutions at Scale Specialization**
+     - [Cloud Computing Foundations](https://coursera.org/share/a1d5b5ddc184b1782860a26ef9b184e4)  
 
 ### DeepLearning.AI Short Courses
 - [Getting Started with Mistral](https://learn.deeplearning.ai/accomplishments/46d58589-d6df-4b9c-a26b-cb37c4c6b874?usp=sharing)
